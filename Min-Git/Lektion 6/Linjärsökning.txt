@@ -1,0 +1,1 @@
+linjär sökning, görs på oserterade listor och länkade listor. -> Ordo N
